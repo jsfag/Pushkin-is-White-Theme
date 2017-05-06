@@ -1,0 +1,44 @@
+{
+	"name": "pushkin-is-white-theme",
+	"displayName": "Pushkin is White Theme",
+	"description": "The black and white solid theme.",
+	"version": "0.0.1",
+	"publisher": "ispushkin",
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Themes"
+	],
+	"galleryBanner": {
+		"color": "#23201d",
+		"theme": "dark"
+	},
+	"icon": "icon.png",
+	"homepage": "https://github.com/llatigid/Pushkin-is-White-Theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/llatigid/Pushkin-is-White-Theme.git"
+	},
+	"bugs": {
+		"url": "https://github.com/llatigid/Pushkin-is-White-Theme/issues",
+		"email": "llatigid@gmail.com"
+	},
+	"license": "SEE LICENSE IN LICENSE.md",
+	"keywords": [
+		"white",
+		"flat",
+		"theme",
+		"light",
+		"graphite"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Pushkin is White Theme",
+				"uiTheme": "vs",
+				"path": "./themes/pushkin-is-white-theme.json"
+			}
+		]
+	}
+}
