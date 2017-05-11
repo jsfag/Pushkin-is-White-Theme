@@ -54,6 +54,16 @@
 				"foreground": "#000000"
 			}
 		},
+		/* Entity name */
+		{
+			"name": "Entity name",
+			"scope": [
+				"entity.name"
+			],
+			"settings": {
+				"foreground": "#000000"
+			}
+		},
 		/*  Bracket etc */
 		{
 			"scope": [
