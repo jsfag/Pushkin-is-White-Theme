@@ -2,7 +2,7 @@
 	"name": "pushkin-is-white-theme",
 	"displayName": "Pushkin is White Theme",
 	"description": "The black and white solid theme.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "ispushkin",
 	"engines": {
 		"vscode": "*"
