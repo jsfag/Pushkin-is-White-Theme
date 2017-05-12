@@ -26,16 +26,16 @@ If you have any change requests or ideas feel free to create an issue [here](htt
 <details>
   <summary>Python highlighting</summary>  
     [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)  
-  <p>
+  
 ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)
-</p></details>
+</details>
 
 <details>
   <summary>Ruby highlighting</summary>  
     [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-ruby.png)  
-  <p>
+  
 ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-ruby.png)
-</p></details>
+</details>
 
 <details>
   <summary>Java highlighting</summary>  
