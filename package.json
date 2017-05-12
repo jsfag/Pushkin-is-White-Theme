@@ -2,7 +2,7 @@
 	"name": "pushkin-is-white-theme",
 	"displayName": "Pushkin is White Theme",
 	"description": "The black and white solid theme.",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "ispushkin",
 	"engines": {
 		"vscode": "*"
@@ -30,7 +30,9 @@
 		"flat",
 		"theme",
 		"light",
-		"graphite"
+		"graphite",
+		"solid",
+		"black and white"
 	],
 	"contributes": {
 		"themes": [
@@ -40,5 +42,10 @@
 				"path": "./themes/pushkin-is-white-theme.json"
 			}
 		]
+	},
+	"__metadata": {
+		"id": "69d0f5f6-0d8e-4b68-bde1-471c06dabbe2",
+		"publisherId": "e4b415b4-06b7-473d-987d-1ec7355de1a4",
+		"publisherDisplayName": "IS. Pushkin"
 	}
 }
