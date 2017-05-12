@@ -1,6 +1,6 @@
 {
 	// "$schema": "vscode://schemas/color-theme",
-	"name": "Pushkin is white",
+	"name": "Pushkin is White",
 	"tokenColors": [
 		/* Comment */
 		{
@@ -47,7 +47,14 @@
 		{
 			"name": "Keywords",
 			"scope": [
-				"storage"
+				"storage",
+				"keyword.other.binding",			// F#
+				"keyword.control.import.python",	// Python
+				"keyword.control.from.js",			// JS
+				"keyword.control.def.ruby",			// Ruby
+				"keyword.control.ruby",				// Ruby
+				"keyword.control.class.ruby",		// Ruby
+				"entity.name.tag"					// HTML
 			],
 			"settings": {
 				"fontStyle": "bold",
@@ -58,9 +65,12 @@
 		{
 			"name": "Entity name",
 			"scope": [
-				"entity.name"
+				"entity.name",
+				"storage.modifier.package.java",	// Java
+				"storage.modifier.import.java"		// Java
 			],
 			"settings": {
+				"fontStyle": "",
 				"foreground": "#000000"
 			}
 		},
@@ -79,11 +89,7 @@
 			"name": "String template - `${string}`",
 			"scope": [
 				"punctuation.definition.string.template",
-				"punctuation.definition.string",
-				"punctuation.accessor",
-				"punctuation.separator.comma",
-				"punctuation.terminator",
-				"keyword.operator.rest"
+				"punctuation.definition.string"
 			],
 			"settings": {
 				"fontStyle": "bold",
@@ -96,7 +102,13 @@
 				"punctuation.accessor",
 				"punctuation.separator.comma",
 				"punctuation.terminator",
-				"keyword.operator.rest"
+				"keyword.operator.rest",
+				"punctuation.separator.arguments", 		// Python
+				"punctuation.separator.element",		// Python
+				"punctuation.separator.parameters",		// Python
+				"punctuation.separator.object",			// Ruby
+				"punctuation.definition.variable",		// Ruby
+				"punctuation.separator.method"			// Ruby
 			],
 			"settings": {
 				"fontStyle": "bold",
@@ -215,7 +227,25 @@
 		"statusBar.debuggingBackground": "#595959",
 
 		// Workbench: Notifications
-		"notification.background": "#268BD2"
+		"notification.background": "#268BD2",
 		// "notification.foreground": "",
+
+		// Colors sourced from the official palette http://ethanschoonover.com/solarized
+		"terminal.ansiBlack": "#262626",
+		"terminal.ansiBlue": "#0087ff",
+		"terminal.ansiBrightBlack": "#1c1c1c",
+		"terminal.ansiBrightBlue": "#808080",
+		"terminal.ansiBrightCyan": "#808080",
+		"terminal.ansiBrightGreen": "#585858",
+		"terminal.ansiBrightMagenta": "#5f5faf",
+		"terminal.ansiBrightRed": "#d75f00",
+		"terminal.ansiBrightWhite": "#808080",
+		"terminal.ansiBrightYellow": "#626262",
+		"terminal.ansiCyan": "#00afaf",
+		"terminal.ansiGreen": "#5f8700",
+		"terminal.ansiMagenta": "#af005f",
+		"terminal.ansiRed": "#d70000",
+		"terminal.ansiWhite": "#808080",
+		"terminal.ansiYellow": "#af8700"
 	}
 }
