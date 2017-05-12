@@ -24,52 +24,80 @@ If you have any change requests or ideas feel free to create an issue [here](htt
 * [Twitter](https://twitter.com/ISPushkin)
 
 <details>
-  <summary>Python highlighting</summary>  
-    [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)  
+  <summary>Python highlighting</summary>
+  <p>
+
+  [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)
+  </p>
+  <p>
   
-![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)
-</details>
+  ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)
+</p></details>
 
 <details>
-  <summary>Ruby highlighting</summary>  
-    [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-ruby.png)  
+  <summary>Ruby highlighting</summary>
+  <p>
   
-![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-ruby.png)
-</details>
-
-<details>
-  <summary>Java highlighting</summary>  
-    [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-java.png)  
+  [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-ruby.png)
+  </p>
   <p>
-![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-java.png)
+  
+  ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-ruby.png)
 </p></details>
 
 <details>
-  <summary>C# highlighting</summary>  
-    [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-c%23.png)  
+  <summary>Java highlighting</summary>
   <p>
-![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-c%23.png)
+  
+  [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-java.png)
+  </p>
+  <p>
+  
+  ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-java.png)
 </p></details>
 
 <details>
-  <summary>F# highlighting</summary>  
-    [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-f%23.png)  
+  <summary>C# highlighting</summary>
   <p>
-![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-f%23.png)
+  
+  [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-c%23.png)
+  </p>
+  <p>
+  
+  ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-c%23.png)
 </p></details>
 
 <details>
-  <summary>PHP highlighting</summary>  
-    [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-php.png)  
+  <summary>F# highlighting</summary>
   <p>
-![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-php.png)
+  
+  [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-f%23.png)
+  </p>
+  <p>
+  
+  ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-f%23.png)
 </p></details>
 
 <details>
-  <summary>HTML highlighting</summary>  
-    [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-html.png)  
+  <summary>PHP highlighting</summary>
   <p>
-![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-html.png)
+  
+  [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-php.png)
+  </p>
+  <p>
+  
+  ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-php.png)
+</p></details>
+
+<details>
+  <summary>HTML highlighting</summary>
+  <p>
+  
+  [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-html.png)
+  </p>
+  <p>
+  
+  ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-html.png)
 </p></details>
 
 ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-js-1.png)  
