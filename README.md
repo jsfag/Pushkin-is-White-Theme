@@ -22,6 +22,7 @@ In order for the highlight line to be exactly as the picture, I would recommend 
 If you have any change requests or ideas feel free to create an issue [here](https://github.com/llatigid/Pushkin-is-White-Theme/issues).
 * [The theme github repository](https://github.com/llatigid/Pushkin-is-White-Theme)
 * [Twitter](https://twitter.com/ISPushkin)
+* The [FiraCode](https://github.com/tonsky/FiraCode) fontface is used
 
 ## Javascript examples
 * [github source image 1,](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-js-1.png) [image 2,](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-js-2.png) [image 3](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-js-1.png)
