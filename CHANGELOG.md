@@ -7,3 +7,8 @@ Added "entity.name": "#000".
 
 ## 0.0.3 | 2017.05.12
 Corrected highlight for Python, Java, Ruby, C#, F#, PHP, HTML.
+
+## 0.0.4 | 2017.08.20
+Added "Pushkin is Black Theme Alpha"
+If you have any change requests or ideas feel free to create an issue [here](https://github.com/llatigid/Pushkin-is-White-Theme/issues).
+* [The theme github repository](https://github.com/llatigid/Pushkin-is-White-Theme)
