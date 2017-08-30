@@ -34,6 +34,8 @@ function expectTree(rootID, expectedTree, parentPath) {
   var element = ReactComponentTreeHook.getElement(rootID);
   var path = parentPath ? `${parentPath} > ${displayName}` : displayName;
 
+  const b = `${sdsdsdfsd + 'asdasdasd'}`;
+
   function expectEqual(actual, expected, name) {
     // Get Jasmine to print descriptive error messages.
     // We pass path so that we know where the mismatch occurred.
@@ -45,7 +47,7 @@ function expectTree(rootID, expectedTree, parentPath) {
       [name]: expected,
     });
   }
-
+  
   if (expectedTree.parentDisplayName !== undefined) {
     expectEqual(
       ReactComponentTreeHook.getDisplayName(parentID),

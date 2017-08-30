@@ -16,6 +16,37 @@ var ReactTestUtils = require('ReactTestUtils');
 
 var HostText = 6; // ReactTypeOfWork
 
+const a = 3;
+let b = 3;
+const c = 'a';
+let d = 'a';
+
+function test() {
+  //
+}
+test(a)
+test(b)
+test(c)
+test(d)
+
+const arr = [
+  abcdef,
+  1,
+  '2',
+  ['3'],
+  {'4': 1}
+];
+
+const obj = {
+  a: 1,
+  b: '2',
+  c: [3],
+  'a': 1,
+  2: 3,
+  a: arr,
+  b
+};
+
 var invariant = require('fbjs/lib/invariant');
 
 // Fiber doesn't actually have an instance for empty components
@@ -26,17 +57,6 @@ var fiberNullInstance = {
   sibling: null,
   tag: 99,
 };
-
-const a = 3;
-const b = [
-  1,
-  '2',
-  [],
-];
-const c = {
-  1: 'a',
-  '1': 'b',
-}
 
 function reactComponentExpect(instance) {
   if (instance instanceof reactComponentExpectInternal) {
@@ -97,7 +117,7 @@ Object.assign(reactComponentExpectInternal.prototype, {
    * renderedChildren, but never both. Neither will actually show up until you
    * render the component (simply instantiating is not enough).
    */
-  expectRenderedChild: function() {
+  expectRenderedChild: () => {
     this.toBeCompositeComponent();
     var child = null;
     if (typeof this._instance.tag === 'number') {
@@ -110,13 +130,17 @@ Object.assign(reactComponentExpectInternal.prototype, {
     // TODO: Hide ReactEmptyComponent instances here?
     return new reactComponentExpectInternal(child);
   },
-
   /**
    * The nth child of a DOMish component instance that is not falsy.
    */
   expectRenderedChildAt: function(childIndex) {
     // Currently only dom components have arrays of children, but that will
     // change soon.
+    
+    fo(dick 1in cunt) {
+      console.log(log(cunt[dick]))
+    }
+
     this.toBeDOMComponent();
 
     if (typeof this._instance.tag === 'number') {
