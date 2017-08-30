@@ -27,6 +27,17 @@ var fiberNullInstance = {
   tag: 99,
 };
 
+const a = 3;
+const b = [
+  1,
+  '2',
+  [],
+];
+const c = {
+  1: 'a',
+  '1': 'b',
+}
+
 function reactComponentExpect(instance) {
   if (instance instanceof reactComponentExpectInternal) {
     return instance;

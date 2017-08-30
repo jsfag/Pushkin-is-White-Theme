@@ -46,6 +46,11 @@
 				"label": "Pushkin is Black Theme Alpha",
 				"uiTheme": "vs-dark",
 				"path": "./themes/pushkin-is-black-theme.json"
+			},
+			{
+				"label": "Cobalt 2",
+				"uiTheme": "vs-dark",
+				"path": "./themes/cobalt2.tmTheme"
 			}
 		]
 	},
