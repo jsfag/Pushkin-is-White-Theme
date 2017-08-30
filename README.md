@@ -24,7 +24,7 @@ If you have any change requests or ideas feel free to create an issue [here](htt
 * [Twitter](https://twitter.com/ISPushkin)
 
 <details>
-  <summary>Python highlighting</summary>
+  <summary>Python white and black highlighting</summary>
   <p>
 
   [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)
@@ -32,8 +32,15 @@ If you have any change requests or ideas feel free to create an issue [here](htt
   <p>
   
   ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)
-</p></details>
+</p>
 
+  [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-black-example-python.png)
+  </p>
+  <p>
+
+  ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-black-example-python.png)
+</p></details>
+  
 <details>
   <summary>Ruby highlighting</summary>
   <p>
@@ -101,5 +108,9 @@ If you have any change requests or ideas feel free to create an issue [here](htt
 </p></details>
 
 ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-js-1.png)  
-![Example 2](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-js-2.png)  
-![Example 3](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-js-3.png)  
+![Example 2](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-black-example-js-1.png)
+ 
+![Example 3](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-js-2.png)  
+![Example 4](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-black-example-js-2.png)
+ 
+![Example 5](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-js-3.png)  
