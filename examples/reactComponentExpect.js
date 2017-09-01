@@ -16,37 +16,6 @@ var ReactTestUtils = require('ReactTestUtils');
 
 var HostText = 6; // ReactTypeOfWork
 
-const a = 3;
-let b = 3;
-const c = 'a';
-let d = 'a';
-
-function test() {
-  //
-}
-test(a)
-test(b)
-test(c)
-test(d)
-
-const arr = [
-  abcdef,
-  1,
-  '2',
-  ['3'],
-  {'4': 1}
-];
-
-const obj = {
-  a: 1,
-  b: '2',
-  c: [3],
-  'a': 1,
-  2: 3,
-  a: arr,
-  b
-};
-
 var invariant = require('fbjs/lib/invariant');
 
 // Fiber doesn't actually have an instance for empty components
