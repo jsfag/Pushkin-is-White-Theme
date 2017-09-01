@@ -375,10 +375,11 @@ var minimizeToTray = function () {
     menu.append(new nw.MenuItem({
         type: 'normal',
         label: i18n.__('Restore'),
-        click: function () {
+        click() {
             openFromTray();
         }
     }));
+    ({}=3)
     menu.append(new nw.MenuItem({
         type: 'normal',
         label: i18n.__('Close'),
