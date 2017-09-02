@@ -45,5 +45,5 @@ If you have any change requests or ideas feel free to create an issue [here](htt
 - ## [Python](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)
   ![Python white example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)
 
-- ## [C#](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)
-  ![C# white example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)
+- ## [C#](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-c%23.png)
+  ![C# white example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-c%23.png)
