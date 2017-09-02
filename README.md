@@ -1,6 +1,6 @@
-# Pushkin is White Theme and Pushkin is Black Theme Alpha  
+# **Pushkin is White Theme & Pushkin is Black Theme Alpha (2 in 1)**
 
-The life is dark so is the font  
+>***The life is dark so is the font  
 There must be something like a bond  
 You hear the screaming late at night?  
 It is the numbers, letters fight  
@@ -9,112 +9,41 @@ The round figures ain't show remorse
 Is it poetically correct  
 To use a war-torn alphabet?  
 My fingers fly across the keys  
-Can someone stop me writing please.  
+Can someone stop me writing please.***
 
-
+## **Recommendation**
 In order for the highlight line to be exactly as the picture, I would recommend the parameter **"editor.renderLineHighlight"** be set from **"line"** to **"gutter"** in your **"settings.json"** file:
 ```json
 {
   "editor.renderLineHighlight": "gutter"
 }
-```  
+```
+
+My [opened request](https://github.com/Microsoft/vscode/issues/28299) for the feature: "editor.lineHighlightForeground" @github.com/Microsoft.
 
 If you have any change requests or ideas feel free to create an issue [here](https://github.com/llatigid/Pushkin-is-White-Theme/issues).
 * [The theme github repository](https://github.com/llatigid/Pushkin-is-White-Theme)
-* [Twitter](https://twitter.com/ISPushkin)
+* [Twitter](https://twitter.com/ISPushkin)  
 
-<details>
-  <summary>Python white and black highlighting</summary>
-  <p>
+## **Pushkin is Black Theme Alpha:**
+- ## The coloured round brackets for [Clojure!](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-black-example-clojure-1.png)
 
-  [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)
-  </p>
-  <p>
-  
-  ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)
-</p>
+  ![Clojure black example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-black-example-clojure-1.png)
+  ![Clojure black example 2](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-black-example-clojure-2.png)
 
-  [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-black-example-python.png)
-  </p>
-  <p>
+- ## The coloured array and object brackets for [Javascript](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-black-example-js-1.png)
 
-  ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-black-example-python.png)
-</p></details>
-  
-<details>
-  <summary>Ruby highlighting</summary>
-  <p>
-  
-  [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-ruby.png)
-  </p>
-  <p>
-  
-  ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-ruby.png)
-</p></details>
+  ![Javascript black example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-black-example-js-1.png)
+  ![Javascript black example 2](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-black-example-js-2.png)
 
-<details>
-  <summary>Java highlighting</summary>
-  <p>
-  
-  [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-java.png)
-  </p>
-  <p>
-  
-  ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-java.png)
-</p></details>
+## **Pushkin is White Theme:**
+- ## [Javascript](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-js-1.png)
+  ![Javascript white example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-js-1.png)
+  ![Javascript white example 2](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-js-2.png)
+  ![Javascript white example 3](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-js-3.png)
 
-<details>
-  <summary>C# highlighting</summary>
-  <p>
-  
-  [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-c%23.png)
-  </p>
-  <p>
-  
-  ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-c%23.png)
-</p></details>
+- ## [Python](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)
+  ![Python white example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)
 
-<details>
-  <summary>F# highlighting</summary>
-  <p>
-  
-  [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-f%23.png)
-  </p>
-  <p>
-  
-  ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-f%23.png)
-</p></details>
-
-<details>
-  <summary>PHP highlighting</summary>
-  <p>
-  
-  [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-php.png)
-  </p>
-  <p>
-  
-  ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-php.png)
-</p></details>
-
-<details>
-  <summary>HTML highlighting</summary>
-  <p>
-  
-  [github source image](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-html.png)
-  </p>
-  <p>
-  
-  ![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-html.png)
-</p></details>
-
-![Example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-js-1.png)  
-
-![Example 2](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-black-example-js-1.png)
- 
-![Example 3](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-js-2.png)  
-
-![Example 4](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-black-example-js-2.png)
- 
-![Example 5](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-js-3.png)  
-
-![Example 6](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-black-example-js-3.png)
+- ## [C#](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)
+  ![C# white example 1](https://raw.githubusercontent.com/llatigid/Pushkin-is-White-Theme/master/media/pushkin-is-white-example-python.png)
