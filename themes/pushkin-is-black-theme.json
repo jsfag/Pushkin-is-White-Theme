@@ -552,6 +552,18 @@
     },
     
 
+    /* Racket */
+    {
+      "name": "String",
+      "scope": [
+        "source.racket string"
+      ],
+      "settings": {
+        "foreground": "#fc3d7f"
+      }
+    },
+
+
     /* Clojure */
     {
       "name": "Vector",
@@ -584,7 +596,7 @@
     {
       "name": "Clojure - Level 1",
       "scope": [
-        "source.clojure meta.expression.clojure meta.definition.global.clojure meta.expression.clojure punctuation.section.expression"
+        "source.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
       ],
       "settings": {
         "foreground": "#FF8F00" //"#FFCB6B"
@@ -593,7 +605,7 @@
     {
       "name": "Clojure - Level 2",
       "scope": [
-        "source.clojure meta.expression.clojure meta.definition.global.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
+        "source.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
       ],
       "settings": {
         "foreground": "#EF6C00" //"#F78C6C"
@@ -602,7 +614,7 @@
     {
       "name": "Clojure - Level 3",
       "scope": [
-        "source.clojure meta.expression.clojure meta.definition.global.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
+        "source.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
       ],
       "settings": {
         "foreground": "#D84315" //"#FF5370"
@@ -611,7 +623,7 @@
     {
       "name": "Clojure - Level 4",
       "scope": [
-        "source.clojure meta.expression.clojure meta.definition.global.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
+        "source.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
       ],
       "settings": {
         "foreground": "#C62828" //"#C17E70"
@@ -620,7 +632,7 @@
     {
       "name": "Clojure - Level 5",
       "scope": [
-        "source.clojure meta.expression.clojure meta.definition.global.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
+        "source.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
       ],
       "settings": {
         "foreground": "#F44336" //"#82AAFF"
@@ -629,7 +641,7 @@
     {
       "name": "Clojure - Level 6",
       "scope": [
-        "source.clojure meta.expression.clojure meta.definition.global.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
+        "source.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
       ],
       "settings": {
         "foreground": "#E91E63" //"#f07178"
@@ -638,7 +650,7 @@
     {
       "name": "Clojure - Level 7",
       "scope": [
-        "source.clojure meta.expression.clojure meta.definition.global.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
+        "source.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
       ],
       "settings": {
         "foreground": "#6A1B9A" //"#C792EA"
@@ -647,7 +659,7 @@
     {
       "name": "Clojure - Level 8",
       "scope": [
-        "source.clojure meta.expression.clojure meta.definition.global.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
+        "source.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
       ],
       "settings": {
         "foreground": "#673AB7" //"#C3E88D"
@@ -656,7 +668,7 @@
     {
       "name": "Clojure - Level 9",
       "scope": [
-        "source.clojure meta.expression.clojure meta.definition.global.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
+        "source.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
       ],
       "settings": {
         "foreground": "#3F51B5"
@@ -665,7 +677,7 @@
     {
       "name": "Clojure - Level 10",
       "scope": [
-        "source.clojure meta.expression.clojure meta.definition.global.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
+        "source.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
       ],
       "settings": {
         "foreground": "#607D8B"
@@ -674,7 +686,7 @@
     {
       "name": "Clojure - Level 11",
       "scope": [
-        "source.clojure meta.expression.clojure meta.definition.global.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
+        "source.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure meta.expression.clojure punctuation.section.expression"
       ],
       "settings": {
         "foreground": "#9E9E9E"

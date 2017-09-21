@@ -12,3 +12,7 @@ Corrected highlight for Python, Java, Ruby, C#, F#, PHP, HTML.
 Added "Pushkin is Black Theme Alpha".  
 If you have any change requests or ideas feel free to create an issue [here](https://github.com/llatigid/Pushkin-is-White-Theme/issues).
 * [The theme github repository](https://github.com/llatigid/Pushkin-is-White-Theme)
+
+## 0.0.5 | 2017.09.22
+### Pushkin is Black Theme Alpha
+* Corrected highlight for Clojure, added for Racket (works with [extension](https://marketplace.visualstudio.com/items?itemName=karyfoundation.racket)).

@@ -105,11 +105,6 @@ Object.assign(reactComponentExpectInternal.prototype, {
   expectRenderedChildAt: function(childIndex) {
     // Currently only dom components have arrays of children, but that will
     // change soon.
-    
-    fo(dick 1in cunt) {
-      console.log(log(cunt[dick]))
-    }
-
     this.toBeDOMComponent();
 
     if (typeof this._instance.tag === 'number') {

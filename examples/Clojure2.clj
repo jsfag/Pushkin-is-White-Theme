@@ -15,3 +15,5 @@
     {:perfect (count (filter #(= % :perfect) classes))
      :abundant (count (filter #(= % :abundant) classes))
      :deficient (count (filter #(= % :deficient) classes))}))
+
+(a (b '(c (d '(e (f '(g '(h))))))))
