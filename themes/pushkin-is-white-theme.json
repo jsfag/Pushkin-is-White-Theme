@@ -2,6 +2,39 @@
   // "$schema": "vscode://schemas/color-theme",
   "name": "Pushkin is White",
   "tokenColors": [
+    /* OBJECT */
+    {
+      "name": "Braces — Object",
+      "scope": [
+        "meta.var.expr meta.objectliteral punctuation.definition",
+        "meta.objectliteral punctuation.definition",
+        "meta.function meta.parameter punctuation.definition.binding-pattern.object"
+      ],
+      "settings": {
+        "foreground": "#DD2C00" //"#FF5722" //"#0099BC"
+      }
+    },
+    /* ARRAY */
+    {
+      "name": "Round brackets — Array",
+      "scope": [
+        "meta.var meta.array meta.brace.square",
+        "meta.function meta.array.literal meta.brace.square"
+      ],
+      "settings": {
+        "foreground": "#6200EA" //"#009688" //"#10893E"
+      }
+    },
+    /* FIX */
+    {
+      "name": "Colours fix",
+      "scope": [
+        "meta.object-literal.key meta.array.literal meta.brace.square",
+      ],
+      "settings": {
+        "foreground": "#000000"
+      }
+    },
     /* Comment */
     {
       "name": "Comment",
@@ -24,7 +57,7 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#0000FF"
+        "foreground": "#304FFE" //"#0000FF"
       }
     },
     /* RegExp */
@@ -225,7 +258,7 @@
     "editorHoverWidget.background": "#f4f4f4",
 
     "editorWhitespace.foreground": "#AAAAAA",
-    "editor.lineHighlightBackground": "#000000",
+    "editor.lineHighlightBackground": "#00000030",
     "editor.selectionBackground": "#C9D0D9",
     "editorLineNumber.foreground": "#868686",
     "editorCursor.foreground": "#000000",

@@ -11,9 +11,24 @@
 
 'use strict';
 
-var ReactComponentTreeHook = require('ReactComponentTreeHook');
+const array = [
+  1,
+  'coloured',
+  "brackets",
+  { really: ['wow'] }
+];
+array[2];
+array.really;
 
-function getRootDisplayNames() {
+const object = {
+  key1: value,
+  arr: [{key1: value}]
+};
+object.key1;
+
+const { var1, var2 } = require('module');
+
+function getRootDisplayNames({ a, b }) {
   return ReactComponentTreeHook.getRootIDs().map(
     ReactComponentTreeHook.getDisplayName,
   );

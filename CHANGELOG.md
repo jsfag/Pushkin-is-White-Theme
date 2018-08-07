@@ -1,7 +1,11 @@
+## 0.0.8
+### Pushkin is White
+* Highlighting brackets for array and object.
+
 ## 0.0.7 | 2018.08.07
+Added 'Pushkin is Dark Theme [beta]'.
 ### Pushkin is Black Theme
-* Added 'Pushkin is Dark Theme [beta]'.
-* 'Pushkin is Back Alpha' is now 'Pushkin is Black [beta]'.
+* 'Pushkin is Black Alpha' is now 'Pushkin is Black [beta]'.
 * Highlighting brackets for Parameter Context Matching.
 * Highlighting brackets inside support methods that in the scope of returned functions.
 * Highlighting for 'support.function'. For example: require, encodeURIComponent, .push, .replace.
