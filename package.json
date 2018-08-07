@@ -1,8 +1,8 @@
 {
 	"name": "pushkin-is-white-theme",
 	"displayName": "Pushkin is White Theme",
-	"description": "The black and white solid themes.",
-	"version": "0.0.6",
+	"description": "The black, dark and white solid themes.",
+	"version": "0.0.7",
 	"publisher": "ispushkin",
 	"engines": {
 		"vscode": "*"
@@ -44,9 +44,14 @@
 				"path": "./themes/pushkin-is-white-theme.json"
 			},
 			{
-				"label": "Pushkin is Black Theme Alpha",
+				"label": "Pushkin is Black Theme [beta]",
 				"uiTheme": "vs-dark",
 				"path": "./themes/pushkin-is-black-theme.json"
+			},
+			{
+				"label": "Pushkin is Dark Theme [beta]",
+				"uiTheme": "vs-dark",
+				"path": "./themes/pushkin-is-dark-theme.json"
 			}
 		]
 	},

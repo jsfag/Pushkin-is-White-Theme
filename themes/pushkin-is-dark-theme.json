@@ -12,16 +12,27 @@
         "source.css entity.other.attribute-name", // CSS
       ],
       "settings": {
-        "foreground": "#fc3d7f" // "#fc3d7f" // "#c7254e" // "#E26A6A" // "#C0392B" // "#ff0068AA" // "#DCB777"
+        "foreground": "#F92672" //"#FF628C" //"#fc3d7f" // "#fc3d7f" // "#c7254e" // "#E26A6A" // "#C0392B" // "#ff0068AA" // "#DCB777"
+      }
+    },
+    {
+      "name": "Support",
+      "scope": [
+        // "support.function",
+        // "support.class"
+      ],
+      "settings": {
+        "foreground": "#FFF900" // "#54d1ff"//"#cf6a4c"//"#ffe849"//"#d3423e"
       }
     },
     {
       "name": "Quotes",
       "scope": [
-        "string.quoted punctuation.definition.string"
+        "string.quoted punctuation.definition.string",
+        // "string.template"
       ],
       "settings": {
-        "foreground": "#E08283" // "#c7254e"//"#E08283" // "#E87E04" // "#E87E04"
+        "foreground": "#EB939A" //"#E08283" // "#c7254e"//"#E08283" // "#E87E04" // "#E87E04"
       }
     },
     {
@@ -31,7 +42,7 @@
         "punctuation.section.embedded"
       ],
       "settings": {
-        "foreground": "#8757ad"
+        "foreground": "#AE81FF" //"#9876AA" //"#8757ad"
       }
     },
     {
@@ -53,7 +64,7 @@
         "string.template punctuation.definition.string.template"
       ],
       "settings": {
-        "foreground": "#c7254e"//"#fc3d7f"
+        "foreground": "#ffe849"//"#c7254e"//"#fc3d7f"
       }
     },
     {
@@ -66,7 +77,7 @@
         "comment.wildcard"
       ],
       "settings": {
-        "foreground": "#5cb4de" // "#5C97BF" //"#d35400"
+        "foreground": "#0088FF" //"#5cb4de" // "#5C97BF" //"#d35400"
       }
     },
     {
@@ -78,7 +89,7 @@
         "punctuation.definition.array", // JSON
       ],
       "settings": {
-        "foreground": "#A5C261" //"#FFB054"
+        "foreground": "#88FF00" // "#80FFBB" //"#A5C261" //"#FFB054"
       }
     },
     // {
@@ -100,6 +111,32 @@
       }
     },
     {
+      "name": "Braces",
+      "scope": [
+        "meta.brace",
+        "punctuation.definition",
+        "punctuation.definition.parameters",
+        "punctuation.terminator",
+        "punctuation.accessor",
+        "meta.objectliteral meta.block punctuation.definition.block",
+        // "meta.block punctuation.definition.block",
+        "punctuation.section.function"
+      ],
+      "settings": {
+        "foreground": "#5F5A60" //"#5F5A60" //"#3B3B3B" //"#555555" "#F44336"
+      }
+    },
+    {
+      "name": "Punctuation",
+      "scope": [
+        "punctuation.definition.section"
+      ],
+      "settings": {
+        "foreground": "#F9F9F9"
+      }
+    },
+    /* OBJECT */
+    {
       "name": "Braces object",
       "scope": [
         "meta.var meta.objectliteral punctuation.definition",
@@ -114,32 +151,7 @@
         "punctuation.definition.dictionary", // JSON
       ],
       "settings": {
-        "foreground": "#BC9458" //"#CC7833"
-      }
-    },
-    {
-      "name": "Braces",
-      "scope": [
-        "meta.brace",
-        "punctuation.definition",
-        "punctuation.definition.parameters",
-        "punctuation.terminator",
-        "punctuation.accessor",
-        "meta.objectliteral meta.block punctuation.definition.block",
-        // "meta.block punctuation.definition.block",
-        "punctuation.section.function"
-      ],
-      "settings": {
-        "foreground": "#555555"
-      }
-    },
-    {
-      "name": "Punctuation",
-      "scope": [
-        "punctuation.definition.section"
-      ],
-      "settings": {
-        "foreground": "#F9F9F9"
+        "foreground": "#FFF900" //"#FFC600"
       }
     },
     {
@@ -153,7 +165,7 @@
         "punctuation.definition.entity", // CSS
       ],
       "settings": {
-        "foreground": "#CC7833"//"#BC9458"
+        "foreground": "#FF9D00"
       }
     },
     {
@@ -162,7 +174,7 @@
         "meta.object-literal punctuation"
       ],
       "settings": {
-        "foreground": "#F9F9F9"//"#BC9458"
+        "foreground": "#F9F9F9"
       }
     },
     {
@@ -182,7 +194,7 @@
       ],
       "settings": {
         // "fontStyle": "italic",
-        "foreground": "#555555" //"#746D73"
+        "foreground": "#5F5A60" // "#FF0088" //"#664466"//"#555555" //"#746D73"
       }
     },
     {
@@ -208,8 +220,9 @@
         "keyword.other.unit", // CSS
       ],
       "settings": {
-        "fontStyle": "bold",
-        "foreground": "#555555"//"#708394"
+        // "fontStyle": "bold",
+        // "background": "#ffffff",
+        "foreground": "#6bcbef"//"#4FC3F7"//"#5F5A60"//"#08fbcf"//"#9E2927" // "#BC3F3C" // //"#CF6A4C" // "#CC7832" //"#555555"//"#708394"
       }
     },
 
@@ -226,26 +239,7 @@
       }
     },
 
-    /* JSON */
-    {
-      "name": "Braces object",
-      "scope": [
-        "punctuation.definition.dictionary"
-      ],
-      "settings": {
-        "foreground": "#BC9458"
-      }
-    },
-    {
-      "name": "Braces array",
-      "scope": [
-        "punctuation.definition.array"
-      ],
-      "settings": {
-        "foreground": "#A5C261"
-      }
-    },
-    
+ 
     /* Rust */
     {
       "name": "String type",
@@ -852,11 +846,11 @@
 
     "editorGutter.addedBackground": "#ffffff50",
 
-    "editor.background": "#1C1C1C",
-    "editor.foreground": "#F9F9F9",//"#bdc3c7", // A BIT DARK
+    "editor.background": "#141414", //"#1C1C1C",
+    "editor.foreground": "#f8f8f8", //"#F9F9F9",//"#bdc3c7", // A BIT DARK
     // "editorLineNumber.foreground": "#75715E",
     "editorCursor.foreground": "#B6B6B6",
-    "editor.selectionBackground": "#000000F0",
+    "editor.selectionBackground": "#3C3F42", //"#000000F0",
     "editor.lineHighlightBackground": "#00000090",
     // "editor.selectionHighlightBackground": "#362712",
 
